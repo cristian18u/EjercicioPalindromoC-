@@ -1,0 +1,15 @@
+C:\Users\crist\Documents\NetCore\Palindromo\bin\Debug\net6.0\palindromo.exe
+C:\Users\crist\Documents\NetCore\Palindromo\bin\Debug\net6.0\palindromo.deps.json
+C:\Users\crist\Documents\NetCore\Palindromo\bin\Debug\net6.0\palindromo.runtimeconfig.json
+C:\Users\crist\Documents\NetCore\Palindromo\bin\Debug\net6.0\palindromo.dll
+C:\Users\crist\Documents\NetCore\Palindromo\bin\Debug\net6.0\palindromo.pdb
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.csproj.AssemblyReference.cache
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.AssemblyInfo.cs
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.dll
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\refint\palindromo.dll
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.pdb
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\palindromo.genruntimeconfig.cache
+C:\Users\crist\Documents\NetCore\Palindromo\obj\Debug\net6.0\ref\palindromo.dll
